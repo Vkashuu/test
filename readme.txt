@@ -1,6 +1,4 @@
 Git is a distributed version control system.
-Git is a free software.
+Git is free software.
 first.
 Creating a new branch is quick and simple.
-修复bug
-
